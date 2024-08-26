@@ -2,8 +2,8 @@ This test includes RestAssured, Selenium Webdriver, testNG and extentReports.
 All URLs,URIs and similar data are hidden!
 
 1. Using Rest Assured authorize by sending non-expire access token.
-- Sending a post on a page and confirm and confirming that post by postID 
-- Uploading photo on a page and confirming uploaded photo by postID
+- Sending a post on a page and confirm and that post by postID 
+- Uploading photo on a page and confirm uploaded photo by postID
 
 2. Using Selenium WebDriver opening the page login, navigating to certaing part of the page
 finding all post and photos gather the data and assert in the test class.
